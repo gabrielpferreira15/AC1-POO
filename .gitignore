@@ -1,0 +1,12 @@
+# Arquivos compilados
+/bin/
+*.class
+
+# Configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Pasta do banco de dados local gerado nos testes
+/db/
+/dados/
